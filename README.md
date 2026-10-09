@@ -6,7 +6,7 @@ Projet conçu en équipe avec : Rémi, Federer
 
 - Une phrase (logline) : ...
 - Le public cible : adolescents et adultes
-- La franchise d'origine : Spiderman
+- La franchise d'origine : 
 
 ## L'intrigue
 
@@ -17,9 +17,7 @@ Projet conçu en équipe avec : Rémi, Federer
 
 ## Le personnage principal
 
-Spiderman noir et blanc
-
-- Description (physique et psychologique) : ...
+- Description (physique et psychologique) : 
 - Son désir (ce qu'il veut) : ...
 - Son besoin (ce qu'il lui faut) : ...
 - Son évolution : ...
@@ -31,8 +29,8 @@ Spiderman noir et blanc
 
 ## La direction cinématographique
 
-- La palette de couleurs : ...
-- L'éclairage : ...
+- La palette de couleurs : 
+- L'éclairage : 
 - Le rythme du montage : ...
 - Un moodboard (3 à 5 images de référence) :
 
