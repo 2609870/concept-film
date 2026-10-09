@@ -5,8 +5,8 @@ Projet conçu en équipe avec : Rémi, Federer
 ## Le concept et l'audience
 
 - Une phrase (logline) : ...
-- Le public cible : ...
-- La franchise d'origine : ...
+- Le public cible : adolescents et adultes
+- La franchise d'origine : Spiderman
 
 ## L'intrigue
 
