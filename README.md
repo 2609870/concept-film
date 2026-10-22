@@ -4,9 +4,10 @@ Projet conçu en équipe avec : Rémi, Federer
 
 ## Le concept et l'audience
 
+- Concept : Documentaire sur les vers des sables
 - Une phrase (logline) : ...
-- Le public cible : adolescents et adultes
-- La franchise d'origine : 
+- Le public cible : Adolescents et adultes
+- La franchise d'origine : Dune
 
 ## L'intrigue
 
@@ -17,21 +18,21 @@ Projet conçu en équipe avec : Rémi, Federer
 
 ## Le personnage principal
 
-- Description (physique et psychologique) : 
+- Description (physique et psychologique) : Peau segmentée, ver, dents pointues,
 - Son désir (ce qu'il veut) : ...
 - Son besoin (ce qu'il lui faut) : ...
 - Son évolution : ...
 
 ## L'univers
 
-- Où et quand se passe l'histoire : ...
+- Où et quand se passe l'histoire : Sur la planète Arrakis
 - Un élément de folklore qui rend l'univers vivant : ...
 
 ## La direction cinématographique
 
-- La palette de couleurs : 
-- L'éclairage : 
-- Le rythme du montage : ...
+- La palette de couleurs : Bleu, blanc, beige, brun, orange
+- L'éclairage : Clair et intense avec contrastes forts
+- Le rythme du montage : Lent
 - Un moodboard (3 à 5 images de référence) :
 
 ![Moodboard](moodboard.jpg)
