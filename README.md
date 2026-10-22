@@ -6,7 +6,7 @@ Projet conçu en équipe avec : Rémi, Federer
 
 - Concept : Documentaire sur les vers des sables
 - Une phrase (logline) : ...
-- Le public cible : Adolescents et adultes
+- Le public cible : Adultes
 - La franchise d'origine : Dune
 
 ## L'intrigue
