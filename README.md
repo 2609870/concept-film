@@ -26,7 +26,7 @@ Projet conçu en équipe avec : Rémi, Federer
 ## L'univers
 
 - Où et quand se passe l'histoire : Sur la planète Arrakis
-- Un élément de folklore qui rend l'univers vivant : ...
+- Un élément de folklore qui rend l'univers vivant : Souris du désert, civilisation Fremen
 
 ## La direction cinématographique
 
