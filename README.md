@@ -30,7 +30,7 @@ Projet conçu en équipe avec : Rémi, Federer
 
 ## La direction cinématographique
 
-- La palette de couleurs : Bleu, blanc, beige, brun, orange
+- La palette de couleurs : Bleu pâle, blanc, beige, brun, orange
 - L'éclairage : Clair et intense avec contrastes forts
 - Le rythme du montage : Lent
 - Un moodboard (3 à 5 images de référence) :
