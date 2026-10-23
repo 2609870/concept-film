@@ -18,7 +18,7 @@ Projet conçu en équipe avec : Rémi, Federer
 
 ## Le personnage principal
 
-- Description (physique et psychologique) : , nonchalant
+- Description (physique et psychologique) : âge moyen, équipement adapté, sac à dos, nonchalant
 - Son désir (ce qu'il veut) : Vouloir être reconnu par ses pairs
 - Son besoin (ce qu'il lui faut) : Se passionner pour son travail
 - Son évolution : Amateur -> professionnel et méthodique
