@@ -14,7 +14,7 @@ Projet conçu en équipe avec : Rémi, Federer
 - Le début : Naissance
 - Le milieu : Mode de vie
 - Le revirement (plot twist) : Malgré leur taille imposante, il est possible de chevaucher les vers des sables.
-- La fin : ...
+- La fin : Le chercheur fait une découverte sur l'origine des vers des sables.
 
 ## Le personnage principal
 
