@@ -18,10 +18,10 @@ Projet conçu en équipe avec : Rémi, Federer
 
 ## Le personnage principal
 
-- Description (physique et psychologique) : ...
-- Son désir (ce qu'il veut) : ...
-- Son besoin (ce qu'il lui faut) : ...
-- Son évolution : ...
+- Description (physique et psychologique) : , nonchalant
+- Son désir (ce qu'il veut) : Vouloir être reconnu par ses pairs
+- Son besoin (ce qu'il lui faut) : Se passionner pour son travail
+- Son évolution : Amateur -> professionnel et méthodique
 
 ## L'univers
 
