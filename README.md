@@ -5,7 +5,7 @@ Projet conçu en équipe avec : Rémi, Federer
 ## Le concept et l'audience
 
 - Concept : Documentaire sur les vers des sables
-- Une phrase (logline) : ...
+- Une phrase (logline) : Découvrez les mystérieux vers de sable d'Arrakis, des créatures géantes qui dominent le désert et jouent un rôle essentiel dans l'écosystème de la planète.
 - Le public cible : Adultes
 - La franchise d'origine : Dune
 
